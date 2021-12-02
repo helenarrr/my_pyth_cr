@@ -6,10 +6,11 @@ def nums_generator(n):
 
 
 nums_gen = nums_generator(10)
+
 print(next(nums_gen))
 print(next(nums_gen))
 print(next(nums_gen))
 print(next(nums_gen))
 print(next(nums_gen))
-print(next(nums_gen))
-print(next(nums_gen))
+
+
